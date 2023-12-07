@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="giffing.bucket4j.spring.boot.starter" type="repository">
+    <properties maven-id="com.giffing.bucket4j.spring.boot.starter:bucket4j-spring-boot-starter:0.0.13" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/giffing/bucket4j/spring/boot/starter/bucket4j-spring-boot-starter/0.0.13/bucket4j-spring-boot-starter-0.0.13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/cache/cache-api/1.0.0/cache-api-1.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/vladimir-bukhtoyarov/bucket4j-core/3.0.2/bucket4j-core-3.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/vladimir-bukhtoyarov/bucket4j-jcache/3.0.2/bucket4j-jcache-3.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
